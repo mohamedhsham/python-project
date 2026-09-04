@@ -1,9 +1,6 @@
 # python-project
-# InstaPay Simulation
 
-A simple console-based digital wallet simulation built with Python.
-
-## Basic Features
+# Basic Features
 
 * User registration
 * User login with limited attempts
@@ -15,7 +12,7 @@ A simple console-based digital wallet simulation built with Python.
 * Transaction history
 * Input validation
 
-## Bonus Features
+# Bonus Features
 
 * Multiple linked cards
 * Remove linked cards
@@ -29,11 +26,3 @@ A simple console-based digital wallet simulation built with Python.
 * `auth.py` — registration and login
 * `operations.py` — wallet and card operations
 * `validation.py` — input validation
-
-## Run
-
-```bash
-python Main.py
-```
-
-This project is a learning simulation and does not connect to real banking or InstaPay services.
